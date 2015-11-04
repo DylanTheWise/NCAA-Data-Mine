@@ -12,7 +12,7 @@ while true; do
 
 	else
 		#Call program to email us something went wrong
-		python PythonErrorEmail.py
+		#python PythonErrorEmail.py
 		#Halt Shell Script
 		exit
 
@@ -27,7 +27,7 @@ while true; do
 
 	else
 		#Call program to email us something went wrong
-		python PythonErrorEmail.py
+		#python PythonErrorEmail.py
 		#Halt Shell Script
 		exit
 
@@ -42,7 +42,7 @@ while true; do
 
 	else
 		#Call program to email us something went wrong
-		python PythonErrorEmail.py
+		#python PythonErrorEmail.py
 		#Halt Shell Script
 		exit
 
@@ -57,7 +57,7 @@ while true; do
 
 	else
 		#Call program to email us something went wrong
-		python PythonErrorEmail.py
+		#python PythonErrorEmail.py
 		#Halt Shell Script
 		exit
 
